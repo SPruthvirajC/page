@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/page/static/css/main.5e76ef99.css",
+    "main.js": "/page/static/js/main.92fc2fbb.js",
+    "static/js/787.71e672d5.chunk.js": "/page/static/js/787.71e672d5.chunk.js",
+    "static/media/one.png": "/page/static/media/one.4492c972f3d6fca1e910.png",
+    "static/media/notification.jpg": "/page/static/media/notification.b8508e60d5c320104222.jpg",
+    "static/media/pro1.png": "/page/static/media/pro1.5b4a606e709f0df5bc53.png",
+    "static/media/portfolio_yuya.png": "/page/static/media/portfolio_yuya.7b1590f50badf1c326d7.png",
+    "static/media/hero-img.jpg": "/page/static/media/hero-img.e5f152b6d0d06ab40cde.jpg",
+    "static/media/portfolio.png": "/page/static/media/portfolio.6b961a2e220a45233a58.png",
+    "static/media/Jazmin Alt Regular.otf": "/page/static/media/Jazmin Alt Regular.ca335da04d2dfdfe8d9f.otf",
+    "static/media/brand__netflix.png": "/page/static/media/brand__netflix.b39480d09d45609d9d6f.png",
+    "static/media/comingsoon.jpg": "/page/static/media/comingsoon.797c0192234e15c85c31.jpg",
+    "static/media/brand__opensea.svg": "/page/static/media/brand__opensea.6706f228d11b4351144c707e387cef80.svg",
+    "static/media/logo.svg": "/page/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/brand__pubg.webp": "/page/static/media/brand__pubg.4313001f4659c082a02a.webp",
+    "static/media/behance.svg": "/page/static/media/behance.3373de3d927cdf3bc68433334d36ba10.svg",
+    "static/media/youtube.svg": "/page/static/media/youtube.43b470a9d7939f53d1db2bad52b59c3a.svg",
+    "static/media/facebook.svg": "/page/static/media/facebook.09cf2f7f4ea4c488eae497b30acba283.svg",
+    "static/media/arrow_arc.svg": "/page/static/media/arrow_arc.f2f158baa72ed2f02303cbd2ca6cdffa.svg",
+    "static/media/arrow.svg": "/page/static/media/arrow.8c3f34e04e737ff861f827da30972e57.svg",
+    "index.html": "/page/index.html",
+    "static/media/IconOne.svg": "/page/static/media/IconOne.a72025cbefc23cfe9334b4314a87a65c.svg",
+    "static/media/search.svg": "/page/static/media/search.cf315284d6e0edc1c7686864aa6da0bc.svg",
+    "static/media/right.svg": "/page/static/media/right.38d7234abc76f4613c6ea8b420018738.svg",
+    "static/media/instagram.svg": "/page/static/media/instagram.8b66e006b82a6c6c75df0c75f56d9b85.svg",
+    "main.5e76ef99.css.map": "/page/static/css/main.5e76ef99.css.map",
+    "main.92fc2fbb.js.map": "/page/static/js/main.92fc2fbb.js.map",
+    "787.71e672d5.chunk.js.map": "/page/static/js/787.71e672d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e76ef99.css",
+    "static/js/main.92fc2fbb.js"
+  ]
+}
